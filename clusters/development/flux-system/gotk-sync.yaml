@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/nixmaniack/manning-project-1
+  url: ssh://git@github.com/manning-lp/chooth13-pixel-multi-cluster-lp
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
