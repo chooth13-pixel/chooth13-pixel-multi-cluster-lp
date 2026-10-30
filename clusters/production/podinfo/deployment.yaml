@@ -4,6 +4,7 @@ metadata:
   name: podinfo
   namespace: prod 
 spec:
+  replicas: 3
   minReadySeconds: 3
   revisionHistoryLimit: 5
   progressDeadlineSeconds: 60
