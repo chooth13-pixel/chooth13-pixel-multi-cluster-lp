@@ -1,0 +1,4 @@
+NAME                            READY   STATUS    RESTARTS   AGE
+prod-podinfo-6ccb6c5f58-2gd92   1/1     Running   0          10m
+prod-podinfo-6ccb6c5f58-9qn5p   1/1     Running   0          10m
+prod-podinfo-6ccb6c5f58-wwjg4   1/1     Running   0          10m

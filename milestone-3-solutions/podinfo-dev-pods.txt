@@ -1,0 +1,3 @@
+NAME                           READY   STATUS    RESTARTS   AGE
+dev-podinfo-6ccb6c5f58-5gb4w   1/1     Running   0          10m
+dev-podinfo-6ccb6c5f58-hlxzm   1/1     Running   0          10m
